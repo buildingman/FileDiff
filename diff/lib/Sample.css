@@ -1,0 +1,34 @@
+.header {
+	background-color:black;
+	color:white;
+	text-align: center;
+	padding: 5px;
+}
+
+.nav {
+	line-height: 30px;
+	background-color: #eeeeee;
+	height:640px;
+	width:200px;
+	float:left;
+	padding: 5px;
+}
+
+.section {
+    	float:center;
+   	padding:20px; 
+}
+
+.footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+    margin-bottom: 10px;
+}
+
+.ai-type {
+	color: red;
+	font-size: 20px;
+}

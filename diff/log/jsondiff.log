@@ -1,0 +1,179 @@
+2018-09-07 10:48:38[DEBUG][17] file lineno obtain sucess :jsonlift.inc
+2018-09-07 10:48:38[DEBUG][17] file lineno obtain sucess :jsonrift.inc
+2018-09-07 10:49:16[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:49:16[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 10:51:03[DEBUG][26] file open sucess filename :jsonlift.inc
+2018-09-07 10:51:03[DEBUG][26] file open sucess filename :jsonrift.inc
+2018-09-07 10:51:03[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:51:03[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 10:53:20[DEBUG][26] file open sucess filename :jsonlift.inc
+2018-09-07 10:53:20[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:53:20[DEBUG][26] file open sucess filename :jsonrift.inc
+2018-09-07 10:53:20[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 10:53:20[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:53:20[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 10:53:44[DEBUG][26] file open sucess filename :jsonlift.inc
+2018-09-07 10:53:44[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:53:44[DEBUG][26] file open sucess filename :jsonrift.inc
+2018-09-07 10:53:44[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 10:53:44[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:53:44[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 10:56:05[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:56:05[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 10:56:05[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 10:56:05[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 10:56:05[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:56:05[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 10:58:03[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:58:03[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 10:58:03[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 10:58:03[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 10:58:03[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 10:58:03[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 10:58:03[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 10:58:03[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:04:23[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:04:23[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:04:23[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:04:23[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:04:23[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:04:23[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:04:23[DEBUG][76] file change array  sucess content  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""}]
+2018-09-07 11:04:23[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:04:23[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:04:55[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:04:55[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:04:55[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:04:55[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:04:55[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:04:55[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:04:55[DEBUG][76] file diff  sucess content  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""}]
+2018-09-07 11:04:55[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:04:55[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:05:44[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:05:44[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:05:44[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:05:44[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:05:44[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:05:44[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:05:44[DEBUG][76] file diff  sucess content  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""}]
+2018-09-07 11:05:44[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:05:44[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:05:55[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:05:55[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:05:55[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:05:55[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:05:55[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:05:55[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:05:55[DEBUG][76] file diff  sucess content  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""}]
+2018-09-07 11:05:55[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:05:55[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:07:23[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:07:23[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:07:23[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:07:23[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:07:23[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:07:23[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:07:23[DEBUG][76] file diff  sucess content  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""}]
+2018-09-07 11:07:23[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:07:23[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:07:59[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:07:59[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:07:59[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:07:59[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:07:59[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:07:59[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:07:59[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-07 11:07:59[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:07:59[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:07:59[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}
+2018-09-07 11:30:24[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:30:24[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:30:24[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:30:24[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:30:24[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:30:24[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:30:24[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-07 11:30:24[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:30:24[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:30:24[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}
+2018-09-07 11:33:36[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:33:36[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:33:36[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:33:36[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:33:36[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:33:36[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:33:36[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-07 11:33:36[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:33:36[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:33:36[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}
+2018-09-07 11:34:02[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:34:02[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:34:02[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:34:02[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:34:02[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:34:02[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:34:02[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-07 11:34:02[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:34:02[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:34:02[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}
+2018-09-07 11:34:14[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:34:14[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:34:14[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:34:14[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:34:14[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:34:14[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:34:14[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-07 11:34:14[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:34:14[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:34:14[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}
+2018-09-07 11:34:27[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:34:27[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:34:27[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:34:27[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:34:27[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:34:27[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:34:27[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-07 11:34:27[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:34:27[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:34:27[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}
+2018-09-07 11:37:54[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:37:54[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:37:54[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:37:54[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:37:54[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:37:54[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:37:54[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-07 11:37:54[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:37:54[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:37:54[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}
+2018-09-07 11:37:59[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:37:59[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-07 11:37:59[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:37:59[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:37:59[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-07 11:37:59[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-07 11:37:59[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-07 11:37:59[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-07 11:37:59[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-07 11:37:59[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}
+2018-09-10 06:56:05[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-10 06:56:05[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-10 06:56:05[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-10 06:56:05[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-10 06:56:05[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-10 06:56:05[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-10 06:56:05[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-10 06:56:05[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-10 06:56:05[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-10 06:56:05[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}
+2018-09-10 07:15:50[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-10 07:15:50[DEBUG][27] file open sucess filename :jsonlift.inc
+2018-09-10 07:15:50[DEBUG][33] file change array  sucess content  :["{\"format\":\"this is the same line\"}\n","{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-10 07:15:50[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-10 07:15:50[DEBUG][27] file open sucess filename :jsonrift.inc
+2018-09-10 07:15:50[DEBUG][33] file change array  sucess content  :["{\"format\":\"example1\",\"content\":[{\"align\":\"center\"}]}\n","{\"format\":\"this is the same line\"}\n","{\"format\":\"this is the same line\"}\n","\n","\n","{\"format\":\"this is the same line\"}\n"]
+2018-09-10 07:15:50[DEBUG][104] file diff  sucess content diff  :[1,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},2,{"1":"\"example1\"","2":"\"content\"","3":"\"align\"","4":"\"center\""},4,["\"format\"","\"this is the same line\""]]
+2018-09-10 07:15:50[DEBUG][17] file lineno obtain sucess filename :jsonlift.inc
+2018-09-10 07:15:50[DEBUG][17] file lineno obtain sucess filename :jsonrift.inc
+2018-09-10 07:15:50[DEBUG][127] file diff  sucess content line diff   :{"4":"\n","5":"{\"format\":\"this is the same line\"}\n"}

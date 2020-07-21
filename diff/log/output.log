@@ -1,0 +1,14 @@
+2018-09-07 11:34:14[DEBUG][24] filepath not exist, mkdir filepath  success:../lilihui/jsonlift.inc.lz
+2018-09-07 11:37:59[DEBUG][29] filename is already exist, delete it  success:jsonlift.inc.lz
+2018-09-07 11:41:56[DEBUG][29] filename is already exist, delete it  success:../lilihui/jsonlift.inc.lz
+2018-09-10 06:54:24[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 06:56:05[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 06:58:15[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 06:59:40[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 07:06:54[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 07:07:10[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 07:12:28[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 07:15:50[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 07:23:53[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 07:24:48[DEBUG][29] filename is already exist, delete it  success:xmlfile
+2018-09-10 07:25:49[DEBUG][29] filename is already exist, delete it  success:xmlfile

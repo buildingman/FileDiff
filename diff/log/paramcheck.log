@@ -1,0 +1,31 @@
+2018-09-07 09:42:39[DEBUG][47]param error  ,content:Array
+2018-09-07 09:43:24[DEBUG][47]  param error  ,content:
+2018-09-07 09:43:59[DEBUG][48]  param error  ,content:
+2018-09-07 09:44:50[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 09:45:54[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 09:46:00[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 09:48:03[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 09:48:27[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 09:48:36[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 09:50:35[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 09:52:10[WARN][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 09:55:22[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 10:02:09[WARN][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 10:05:00[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz","-E","gbk","adsfa"]
+2018-09-07 10:05:08[DEBUG][48]  param error  ,content:["diff.php","-t","json","-l","jsonlift.inc","-r","jsonrift.inc","-o","jsonlift.inc.lz"]
+2018-09-07 10:05:29[DEBUG][60]  param error  ,content:-e  run  lost 
+2018-09-07 10:08:10[DEBUG][87]  param code error ,content:-e=>gb
+2018-09-07 10:15:19[DEBUG][60]  param error  ,content:-e  run  lost 
+2018-09-07 10:15:53[DEBUG][60]  param error  ,content:-e  run  lost 
+2018-09-07 10:32:05[DEBUG][85]  lift not fuond  ,content:-l=>jsonlift.inc
+2018-09-07 10:32:15[DEBUG][85]  lift file not fuond  ,content:-l=>jsonlift.inc
+2018-09-07 10:35:40[DEBUG][86]  lift file not fuond  ,content:-l=>jsonlift.inc
+2018-09-10 07:14:20[DEBUG][47]  param error  ,content:["diff.php","-t","xml","-l","jsonlift.inc","-r","jsonrift.inc","-o","xmlfile","-e"]
+2018-09-10 07:14:32[DEBUG][47]  param error  ,content:["diff.php","-t","xml","-l","jsonlift.inc","-r","jsonrift.inc","-o","xmlfile","utf-8"]
+2018-09-10 07:14:59[DEBUG][47]  param error  ,content:["diff.php","-t","xml","-l","jsonlift.inc","-r","jsonrift.inc","-e","utf-8"]
+2018-09-10 07:22:49[DEBUG][47]  param error  ,content:["diff.php","-t","xml","-l","jsonlift.inc","-r","jsonrift.inc","-o","xmlfile","utf-8"]
+2018-09-10 07:31:32[DEBUG][47]  param error  ,content:["diff.php","-t","xml","-l","jsonlift.inc","-r","-o","xmlfile","-e","utf-8"]
+2018-09-10 07:31:47[DEBUG][47]  param error  ,content:["diff.php","-t","xml","-l","jsonlift.inc","-r","-o","xmlfile","-e","utf-8"]
+2018-09-10 07:31:59[DEBUG][92]  right file not fuond  ,content:-r=>jsonrift1.inc
+2018-09-10 07:32:18[DEBUG][85]  lift file not fuond  ,content:-l=>jsonlif1t.inc
+2018-09-10 07:34:26[DEBUG][85]  lift file not fuond  ,content:-l=>jsonlif1t.inc
